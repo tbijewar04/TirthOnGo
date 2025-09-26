@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "name": "JavaSE-21", // Or "jdk-21", or "21" - pick a consistent name
+    "path": "C:\\Program Files\\Java\\jdk-21.0.7", // <--- **UPDATE THIS PATH** to your exact JDK 21.0.7 location
+    "default": true // Set this to true to make it the default
+    
+}
