@@ -195,7 +195,7 @@ import org.json.JSONObject; // Ensure you have this dependency in your pom.xml
 
 public class LoginController {
 
-    private static final String API_KEY = "AIzaSyDnDmDVPkBZdjn4qBFCv5ClxENY1NMLT1M";
+    private static final String API_KEY = "";
     private static final String PROJECT_ID = "javafx-dce2b"; // Your Firebase project ID
 
     // This class encapsulates the result of a login attempt.
@@ -299,3 +299,4 @@ public class LoginController {
         }
     }
 }
+
